@@ -1,14 +1,18 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
 		"DocBlockr",
 		"Emmet",
 		"Gist",
 		"Git",
 		"Github Tools",
 		"LaTeXTools",
+		"Origami",
 		"Package Control",
 		"SideBarEnhancements",
-		"SideBarGit"
+		"SideBarGit",
+		"StylishHaskell",
+		"WordCount"
 	]
 }

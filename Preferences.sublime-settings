@@ -7,5 +7,7 @@
 		"Github Tools",
 		"Vintage"
 	],
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"enable_live_count": true,
+	"highlight_modified_tabs": true
 }
