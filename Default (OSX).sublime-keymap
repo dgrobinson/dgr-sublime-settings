@@ -1,2 +1,5 @@
 [
+{"keys":["shift,shift"], "command":"auto_complete"},
+{ "keys": ["ctrl+space"], "command": "auto_complete" }
+
 ]

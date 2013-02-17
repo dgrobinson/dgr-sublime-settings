@@ -1,13 +1,18 @@
 {
-	"color_scheme": "Packages/User/Themes/Monokai Soda.tmTheme",
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"enable_live_count": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 17.0,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Github Tools",
 		"Vintage"
 	],
 	"trim_trailing_white_space_on_save": true,
-	"enable_live_count": true,
-	"highlight_modified_tabs": true
+	"auto_complete": true,
+	"auto_complete_triggers": [ {"selector": "text.html", "characters": "<"} ]
+
+
+
 }
