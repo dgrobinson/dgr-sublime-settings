@@ -2,12 +2,17 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"Browser Refresh",
 		"DocBlockr",
 		"Emmet",
+		"Function Name Display",
 		"Gist",
 		"Git",
 		"Github Tools",
 		"LaTeXTools",
+		"LiveReload",
 		"Origami",
 		"Package Control",
 		"SideBarEnhancements",
