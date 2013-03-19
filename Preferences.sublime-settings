@@ -10,13 +10,15 @@
 	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"enable_live_count": true,
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 19.0,
+	"font_size": 16.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Github Tools",
 		"Vintage"
 	],
+	"spell_check": true,
 	"trim_trailing_white_space_on_save": true,
-	"spell_check": true
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true
 }
