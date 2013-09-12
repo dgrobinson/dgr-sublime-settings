@@ -7,7 +7,8 @@
 			"selector": "text.html"
 		}
 	],
-	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_indentation": true,
 	"enable_live_count": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 16.0,
@@ -18,9 +19,7 @@
 		"Vintage"
 	],
 	"spell_check": true,
-	"trim_trailing_white_space_on_save": true,
 	"translate_tabs_to_spaces": true,
-	"use_tab_stops": true,
-	"detect_indentation": true
-
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
 }
