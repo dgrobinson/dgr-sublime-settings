@@ -15,8 +15,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Github Tools",
-		"Vintage"
+		"Vintage",
+		"Github Tools"
 	],
 	"spell_check": true,
 	"translate_tabs_to_spaces": true,
