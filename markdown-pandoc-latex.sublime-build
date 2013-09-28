@@ -1,7 +1,17 @@
 {
+"osx": {
     "path": "/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin",
     // "cmd": ["pandoc", "-S", "-s", "-f", "markdown", "-t", "latex", "-o", "$file_base_name.tex", "$file_name"],
     "cmd": ["pandoc", "-s", "-V", "documentclass=/Users/dgr/robinsonyu/Templates/robinsonyu-memo", "$file_name", "-o", "$file_base_name.pdf"],
     "selector": "text.html.markdown"
+},
 
+
+"windows": {
+    "path" : "C:\\Program Files (x86)\\MikTeX 2.9\\miktex\\bin",
+    // "cmd": ["pandoc", "-S", "-s", "-f", "markdown", "-t", "latex", "-o", "$file_base_name.tex", "$file_name"],
+    "cmd": ["C:\\Program Files\\Pandoc\\Pandoc.exe", "-s", "-V", "documentclass=C:/cygwin/home/dgr/robinsonyu/Templates/robinsonyu-memo", "$file_name", "-o", "$file_base_name.pdf"],
+    "selector": "text.html.markdown"
+
+}
 }
